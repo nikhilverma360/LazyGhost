@@ -1,40 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lazy Ghost
+_A web3 lazy payment gateway (Buy Now, Pay Later) , Shop today, pay later effortlessly with our decentralized Buy Now, Pay Later platform._
 
-## Getting Started
+In the rapidly evolving landscape of Web3, our project aims to revolutionize online shopping by introducing a decentralized Buy Now, Pay Later (BNPL) platform powered by the GHO protocol. This innovative payment gateway will enable users to shop today and pay later, seamlessly integrating decentralized finance (DeFi) principles with the convenience of a traditional Buy Now, Pay Later model.
 
-First, run the development server:
+## Key Features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Decentralization with GHO:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Leveraging the power of the GHO, our payment gateway ensures a secure and transparent decentralized infrastructure. This not only enhances the security of transactions but also eliminates the need for traditional intermediaries, reducing costs and increasing efficiency.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Buy Now, Pay Later (BNPL) Convenience:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Users can enjoy the convenience of shopping without the immediate financial burden. The BNPL feature allows customers to make purchases instantly and defer payment to a later date, promoting a flexible and user-friendly shopping experience.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Smart Contracts for Trustless Transactions:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The platform utilizes smart contracts to automate and enforce the terms of the Buy Now, Pay Later agreements. This ensures trustless transactions, reducing the risk of fraud and providing a secure environment for both buyers and sellers.
 
-## Learn More
+### Global Accessibility:
 
-To learn more about Next.js, take a look at the following resources:
+The decentralized nature of the platform, coupled with blockchain technology, enables users from around the world to access the BNPL service. This inclusivity opens up new markets and opportunities for both consumers and merchants.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Interest-Free Options and Dynamic Terms:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+GHO BNPL offers users the flexibility to choose interest-free options for certain periods. The platform also employs dynamic terms based on the user's transaction history, creating personalized and fair repayment plans.
 
-## Deploy on Vercel
+### Token Integration:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The platform incorporates its native utility token for seamless transactions, incentivizing user engagement and loyalty. Token holders may also benefit from additional perks, such as exclusive discounts and priority access to new features.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Why Lazy Ghost?
+
+- **Empowering Users:** Lazy Ghost empowers users to make purchases without immediate financial strain, promoting responsible and stress-free shopping.
+
+- **Reduced Fees:** By eliminating intermediaries, the platform significantly reduces transaction fees, benefiting both consumers and merchants.
+
+- **Decentralized Finance (DeFi) Principles:** Embracing the principles of DeFi, Lazy Ghost ensures transparency, security, and accessibility in the financial ecosystem.
+
+- **Inclusive Global Economy:** The decentralized nature of the platform facilitates global access, fostering an inclusive and borderless economic environment.
