@@ -3,6 +3,9 @@ _A web3 lazy payment gateway (Buy Now, Pay Later) , Shop today, pay later effort
 
 In the rapidly evolving landscape of Web3, our project aims to revolutionize online shopping by introducing a decentralized Buy Now, Pay Later (BNPL) platform powered by the GHO protocol. This innovative payment gateway will enable users to shop today and pay later, seamlessly integrating decentralized finance (DeFi) principles with the convenience of a traditional Buy Now, Pay Later model.
 
+<img width="1099" alt="Screenshot 2024-01-21 at 22 26 57" src="https://github.com/nikhilverma360/LazyGhost/assets/32412967/9a6003b8-d0ab-4440-af59-816c8e43fd77">
+
+
 ## Key Features:
 
 ### Decentralization with GHO:
@@ -28,6 +31,11 @@ GHO BNPL offers users the flexibility to choose interest-free options for certai
 ### Token Integration:
 
 The platform incorporates its native utility token for seamless transactions, incentivizing user engagement and loyalty. Token holders may also benefit from additional perks, such as exclusive discounts and priority access to new features.
+
+<img width="1680" alt="Screenshot 2024-01-21 at 22 27 39" src="https://github.com/nikhilverma360/LazyGhost/assets/32412967/65fdf608-75e7-4095-9a5f-f4324386ec49">
+
+<img width="1680" alt="Screenshot 2024-01-21 at 22 27 59" src="https://github.com/nikhilverma360/LazyGhost/assets/32412967/5f68aa2f-f646-408c-86fc-108ed1d413ed">
+
 
 ## Why Lazy Ghost?
 
